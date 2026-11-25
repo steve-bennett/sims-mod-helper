@@ -1,3 +1,4 @@
+/** @OnlyCurrentDoc */
 var HEADER = ['id', 'action', 'projectId', 'fileId', 'modName', 'requestedBy', 'requestedAt', 'status', 'reason', 'updatedAt', 'notified'];
 var COL_ID = 1, COL_STATUS = 8, COL_REASON = 9, COL_UPDATED = 10, COL_NOTIFIED = 11;
 var STATUSES = ['installed', 'blocked', 'failed', 'uninstalled'];
